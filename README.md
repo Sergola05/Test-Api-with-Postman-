@@ -4,7 +4,7 @@ ASP.NET Core 8.0 Minimal API с JWT и Swagger, модели вынесены в
 
 ## Запуск
 1. Открой **ApiTestingDemo.csproj** в Visual Studio 2022+ (или `dotnet run` в папке проекта).
-2. Swagger UI: `https://localhost:7078/swagger` (порт может отличаться).
+2. Swagger UI: `https://localhost:5000/swagger` (порт может отличаться).
 3. Логин по умолчанию:
    - Email: `admin@example.com`
    - Password: `admin123`
